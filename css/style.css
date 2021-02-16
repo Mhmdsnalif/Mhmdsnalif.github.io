@@ -163,16 +163,16 @@ section h3::after {
     display: inline-block;
 }
 .html {
-    width: 95%;
+    width: 50%;
 }
 .css {
-    width: 75%;
+    width: 40%;
 }
 .js {
-    width: 60%;
+    width: 30%;
 }
 .php {
-    width: 87%;
+    width: 30%;
 }
 .col-4 {
     width: 25%;
