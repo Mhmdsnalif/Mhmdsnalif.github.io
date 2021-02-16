@@ -82,7 +82,7 @@ a {
     left: 0;
 }
 .banner {
-    background-image: url("img/banner.png");
+    background-image: url(img/banner.png);
     padding: 125px;
 }
 section {
