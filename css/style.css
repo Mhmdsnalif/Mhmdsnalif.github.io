@@ -82,7 +82,7 @@ a {
     left: 0;
 }
 .banner {
-    background-image: url(https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/field/image/bitcoin-blockchain-future-programming.jpg?itok=mIuNXVvA);
+    background-image: url(img/banner.png);
     padding: 125px;
 }
 section {
